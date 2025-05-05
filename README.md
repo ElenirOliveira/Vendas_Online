@@ -37,16 +37,16 @@ As vendas apresentaram um pico no mês de **[Mês]**, indicando sazonalidade.
 ## Visualizações
 
 ### Gráfico 1: Produtos Mais Vendidos
-![Produtos Mais Vendidos](./imagens/produtos_mais_vendidos.png)
+![Produtos Mais Vendidos](5_produtos_mais_vendidos.png)
 
 ### Gráfico 2: Categorias de Produtos
-![Categorias de Produtos](./imagens/categorias_produtos.png)
+![Categorias de Produtos](ticket_medio_por_categoria.png)
 
 ### Gráfico 3: Consumo por Região
-![Consumo por Região](./imagens/consumo_por_regiao.png)
+![Consumo por Região](produto_mais_vendido_por_local.png)
 
 ### Gráfico 4: Tendências de Vendas
-![Tendências de Vendas](./imagens/tendencias_vendas.png)
+![Tendências de Vendas](tendencia_sazonal.png)
 
 ## Conclusão
 
@@ -60,4 +60,4 @@ A análise dos dados de vendas online revelou padrões importantes que podem ser
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato pelo e-mail: **[seu_email@exemplo.com]**.
+Para dúvidas ou sugestões, entre em contato pelo e-mail: **eleniraraujo3@gmail.com**.
